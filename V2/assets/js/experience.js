@@ -6,19 +6,20 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Lead Level Designer",
+    cardImage: "assets/images/experience-page/bgc.jpg",
+    place: "Bharatya Gaming Company",
+    time: "(August, 2021 - Present)",
+    desp: "<li>Working on Project Balod and action role playing game.</li><li>Project Balod is a PC title developing in Unreal Engine.</li>",
+  },
+  {
     title: "Game Developer Intern",
     cardImage: "assets/images/experience-page/gamergages.png",
     place: "GamerGages",
     time: "(April, 2021 - May, 2021)",
     desp: "<li>Worked on AR Ballon Shooter game as a game programmer which was developed in Unity 3D.</li> <li>Made a prototype of Tile Matching game similar to Match3 using Unity 2D.</li> <li>Created game design of Construct-O-Block a Tower Staking game and developed using Unity 2D.</li>",
   },
-  // {
-  //   title: "Game Developer Intern",
-  //   cardImage: "assets/images/experience-page/chessegy.jpg",
-  //   place: "Chessegy",
-  //   time: "(March, 2021 - April, 2021)",
-  //   desp: "<li>Worked on local multiplayer chess games in Unity 3D.</li><li>Became a part of scam where company has taken work from me till one month and then disappeared.</li><li>Learnt the importance if documentation and paper work before strating work in any organization</li>",
-  // },
+
   // {
   //   title: "Azure Cloud Computing Intern",
   //   cardImage: "assets/images/experience-page/verzeo.png",
